@@ -1,0 +1,406 @@
+{
+  "project_info": {
+    "project_number": "431084553743",
+    "project_id": "pro-2d9f0",
+    "storage_bucket": "pro-2d9f0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431084553743:android:c587ac90606192b58e857a",
+        "android_client_info": {
+          "package_name": "com.example.admin_cinema"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431084553743-c3unrvjii4rcrcqqdgfum0kvj0u33o12.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admin_cinema",
+            "certificate_hash": "2b8a7ef6f64dd7c88067d4c4fcee0d50c0859bd6"
+          }
+        },
+        {
+          "client_id": "431084553743-bn0jurbu2gobjp54g15jhiiqch1o6a35.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6Ro0LxINiVt5jY4Yq6340CuSAyRcMmos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431084553743-bn0jurbu2gobjp54g15jhiiqch1o6a35.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "431084553743-2ugephq3d92ur489fo0509n297ic1lkq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.albrainAdmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431084553743:android:948ad69caaad4c1c8e857a",
+        "android_client_info": {
+          "package_name": "com.example.admin_ssm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431084553743-7bkqgs2p24hf7aadha1fjtjqoho0t28m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admin_ssm",
+            "certificate_hash": "2b8a7ef6f64dd7c88067d4c4fcee0d50c0859bd6"
+          }
+        },
+        {
+          "client_id": "431084553743-bn0jurbu2gobjp54g15jhiiqch1o6a35.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6Ro0LxINiVt5jY4Yq6340CuSAyRcMmos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431084553743-bn0jurbu2gobjp54g15jhiiqch1o6a35.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "431084553743-2ugephq3d92ur489fo0509n297ic1lkq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.albrainAdmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431084553743:android:779876465d2381098e857a",
+        "android_client_info": {
+          "package_name": "com.example.albrain_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431084553743-cnn8682q81dp182ski5be8eab6cskt0j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.albrain_admin",
+            "certificate_hash": "2b8a7ef6f64dd7c88067d4c4fcee0d50c0859bd6"
+          }
+        },
+        {
+          "client_id": "431084553743-bn0jurbu2gobjp54g15jhiiqch1o6a35.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6Ro0LxINiVt5jY4Yq6340CuSAyRcMmos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431084553743-bn0jurbu2gobjp54g15jhiiqch1o6a35.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "431084553743-2ugephq3d92ur489fo0509n297ic1lkq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.albrainAdmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431084553743:android:9a9fd16591b9cfd18e857a",
+        "android_client_info": {
+          "package_name": "com.example.albrain_client"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431084553743-tharjvd8fteis9lbf7lbpe6dd0p3jm6m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.albrain_client",
+            "certificate_hash": "2b8a7ef6f64dd7c88067d4c4fcee0d50c0859bd6"
+          }
+        },
+        {
+          "client_id": "431084553743-bn0jurbu2gobjp54g15jhiiqch1o6a35.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6Ro0LxINiVt5jY4Yq6340CuSAyRcMmos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431084553743-bn0jurbu2gobjp54g15jhiiqch1o6a35.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "431084553743-2ugephq3d92ur489fo0509n297ic1lkq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.albrainAdmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431084553743:android:b69bf875999ca91f8e857a",
+        "android_client_info": {
+          "package_name": "com.example.albrain_seller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431084553743-vhql34un416es9lr0a567h21615lhsks.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.albrain_seller",
+            "certificate_hash": "2b8a7ef6f64dd7c88067d4c4fcee0d50c0859bd6"
+          }
+        },
+        {
+          "client_id": "431084553743-bn0jurbu2gobjp54g15jhiiqch1o6a35.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6Ro0LxINiVt5jY4Yq6340CuSAyRcMmos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431084553743-bn0jurbu2gobjp54g15jhiiqch1o6a35.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "431084553743-2ugephq3d92ur489fo0509n297ic1lkq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.albrainAdmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431084553743:android:a022aa0ce29669c28e857a",
+        "android_client_info": {
+          "package_name": "com.example.cashier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431084553743-mhvkjh4ag0b6qkmtt4jrlbivhu9s5tqu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cashier",
+            "certificate_hash": "2b8a7ef6f64dd7c88067d4c4fcee0d50c0859bd6"
+          }
+        },
+        {
+          "client_id": "431084553743-bn0jurbu2gobjp54g15jhiiqch1o6a35.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6Ro0LxINiVt5jY4Yq6340CuSAyRcMmos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431084553743-bn0jurbu2gobjp54g15jhiiqch1o6a35.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "431084553743-2ugephq3d92ur489fo0509n297ic1lkq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.albrainAdmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431084553743:android:23e77a49a5de93ba8e857a",
+        "android_client_info": {
+          "package_name": "com.example.client"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431084553743-joulaftjda3nmacnvutl3d41793jj935.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.client",
+            "certificate_hash": "2b8a7ef6f64dd7c88067d4c4fcee0d50c0859bd6"
+          }
+        },
+        {
+          "client_id": "431084553743-bn0jurbu2gobjp54g15jhiiqch1o6a35.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6Ro0LxINiVt5jY4Yq6340CuSAyRcMmos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431084553743-bn0jurbu2gobjp54g15jhiiqch1o6a35.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "431084553743-2ugephq3d92ur489fo0509n297ic1lkq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.albrainAdmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431084553743:android:c5b159bfd26cfe7f8e857a",
+        "android_client_info": {
+          "package_name": "com.example.student_ssm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431084553743-pm5gt5ch3gbq4pgp9gqifgst9j642etc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.student_ssm",
+            "certificate_hash": "2b8a7ef6f64dd7c88067d4c4fcee0d50c0859bd6"
+          }
+        },
+        {
+          "client_id": "431084553743-bn0jurbu2gobjp54g15jhiiqch1o6a35.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6Ro0LxINiVt5jY4Yq6340CuSAyRcMmos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431084553743-bn0jurbu2gobjp54g15jhiiqch1o6a35.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "431084553743-2ugephq3d92ur489fo0509n297ic1lkq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.albrainAdmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431084553743:android:29ddc5df62f7796b8e857a",
+        "android_client_info": {
+          "package_name": "com.example.teacher_ssm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431084553743-0pfd8jjjdsqcflbsb3a87v6kdrv36boa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.teacher_ssm",
+            "certificate_hash": "2b8a7ef6f64dd7c88067d4c4fcee0d50c0859bd6"
+          }
+        },
+        {
+          "client_id": "431084553743-bn0jurbu2gobjp54g15jhiiqch1o6a35.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6Ro0LxINiVt5jY4Yq6340CuSAyRcMmos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431084553743-bn0jurbu2gobjp54g15jhiiqch1o6a35.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "431084553743-2ugephq3d92ur489fo0509n297ic1lkq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.albrainAdmin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
